@@ -2,38 +2,44 @@ csynaxis
 ========
 
 Plataforma de la Comunidad Synaxis
+==================================
 
-1) MANIFIESTO
+MANIFIESTO
+----------
 
-Pilares de la Comunidad Synaxis:
+Pilares de la Comunidad Synaxis
+-------------------------------
 
-Diseño
-Comunicación
-Creatividad
-Investigación
-Tecnología
-Diversidad
-Moméntum
-Evolución (Divergencia y Convergencia)
+* Diseño
+* Comunicación
+* Creatividad
+* Investigación
+* Tecnología
+* Diversidad
+* Moméntum
+* Evolución (Divergencia y Convergencia)
 
-Conceptos abarcados:
+Conceptos abarcados
+-------------------
 
-Comunidad de Diseñadores y Programadores
-Transparencia
-Financiación tradicional
-Crowdfunding
-Crowdsourcing
-Cultura Libre (Licencias CC, uso de Software Libre)
+* Comunidad de Diseñadores y Programadores
+* Transparencia
+* Financiación tradicional
+* Crowdfunding
+* Crowdsourcing
+* Cultura Libre (Licencias CC, uso de Software Libre)
 
-Filosofías base para el diseño y la programación en Comunidad Synaxis:
+Filosofías base para el diseño y la programación en Comunidad Synaxis
+---------------------------------------------------------------------
 
-Lean Design
-KISS (Keep It Simple Stupid)
-Desarrollo Ágil
-Modularidad
+* Lean Design
+* KISS (Keep It Simple Stupid)
+* Desarrollo Ágil
+* Modularidad
 
 
-2) SISTEMAS A DESARROLLAR
+SISTEMAS A DESARROLLAR
+----------------------
 
 0 - Carga interactiva de nuevo proyecto (Wizard) -> registro de usuario/inicio de sesión
 
@@ -50,7 +56,8 @@ B3 - Back-End Demo / Proyecto - actualización en el sitio del trabajo realizado
 3) A3+B3 - Plataforma de Proyectos (Archivos físicos, detalles)
 
 
-COMUNIDAD SYNAXIS - MINIMA PLATAFORMA VIABLE
+MINIMA PLATAFORMA VIABLE
+------------------------
 
 0 - Formulario con cuestionario sobre el nuevo proyecto.
 
