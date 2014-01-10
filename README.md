@@ -1,6 +1,8 @@
 Plataforma de la Comunidad Synaxis
 ==================================
 
+ACTUALIZACION: Nos mudamos a https://bitbucket.org/csynaxis/csynaxis/
+
 MANIFIESTO
 ----------
 
